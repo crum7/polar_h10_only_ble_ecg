@@ -1,4 +1,6 @@
-# polar_h10_only_ble_ecg
+# polar_sensor_ble_get
 
-このリポジトリには、PCとPolar H10を接続し、ECGデータを取得するためのPythonスクリプトが含まれています。
-モバイルデバイス向けには公式SDKが存在しますが、Python用の動作するツールが見当たらなかったため、このスクリプトを作成しました。
+このリポジトリには、polarとモバイルデバイス向けには公式SDKが存在しますが、Pythonで動作するコードが見当たらなかったため、このスクリプトを作成しました。
+polar H10とpolar verity senseについてのコードをまとめています。
+
+
